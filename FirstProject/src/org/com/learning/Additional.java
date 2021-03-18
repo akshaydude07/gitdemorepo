@@ -4,6 +4,8 @@ class Additional{
 	int j2 =1;
 	public void results(){
 		System.out.println("In Divide " + (i2 / j2));
+		System.out.println("In Divide ");
+		
 	}
 	
 }
